@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>phate6660-overlay</name>
+		<description lang="en">An overlay for software made by me, others, or just missing from the default repos.</description>
+        <homepage>https://github.com/Phate6660/overlay</homepage>
+		<owner type="person">
+            <name>Phate</name>
+			<email>ValleyKnight@protonmail.com</email>
+        </owner>
+        <source type="git">git://github.com/Phate6660/overlay.git</source>
+	</repo>
+</repositories>
