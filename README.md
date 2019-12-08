@@ -16,8 +16,8 @@ After that, all you need to do is sync. :)
 
 # Software
 Currently, here is what is included:
-- x11-terms/valleyTERM - A VTE-based Gtk terminal, created to be minimal yet fully-featured.
+- `x11-terms/valleyTERM` - A VTE-based Gtk terminal, created to be minimal yet fully-featured.
 
 Here is what is planned to be included:
-- app-misc/rsfetch - A neofetch-esque info fetch tool written in Rust.
-- ???/PyRoman - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
+- `app-misc/rsfetch` - A neofetch-esque info fetch tool written in Rust.
+- `dev-python/PyRoman` - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
