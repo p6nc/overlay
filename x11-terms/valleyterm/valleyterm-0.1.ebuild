@@ -14,10 +14,13 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE=""
 
-# TODO: Sources are supplied in a zip. We need to depend on that
+# CHost build-time dependencies (libraries)
 DEPEND=">=x11-libs/vte-0.54.4"
+# Runtime dependencies
 RDEPEND="${DEPEND}"
-BDEPEND=""
+# CBuild build-time dependencies
+BDEPEND="app-arch/unzip
+	virtual/pkgconfig"
 
 # Should not need to modify the default compile function.
 #src_compile() {
