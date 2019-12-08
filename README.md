@@ -1,4 +1,7 @@
 # Description
+##### NOTE: This is still in the process of being made. Even though the overlay itself works, the ebuilds are still being worked on.
+##### So use it at your own risk.<br>
+----
 This is a custom overlay for Gentoo made through a group effort between ncdulo and I.<br>
 This overlay is for software created by me, ncdulo, other programmers we may know, and any software we want that is missing from portage.<br>
 
