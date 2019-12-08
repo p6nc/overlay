@@ -19,4 +19,5 @@ Currently, here is what is included:
 - x11-terms/valleyTERM - This is a terminal made by me, with some help by ncdulo.
 
 Here is what is planned to be included:
-- rsfetch - A neofetch-esque info fetch tool written in Rust. Written by me, with help from some contributors and Reddit.
+- app-misc/rsfetch - A neofetch-esque info fetch tool written in Rust. Written by me, with help from some contributors and Reddit.
+- ???/PyRoman - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper. Written by ncdulo.
