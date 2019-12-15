@@ -21,3 +21,5 @@ Currently, here is what is included:
 Here is what is planned to be included:
 - `app-misc/rsfetch` - A neofetch-esque info fetch tool written in Rust.
 - `dev-python/PyRoman` - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
+- `games-misc/fortune-mod-gentoo-dev` - Fortune database of #gentoo-dev quotes.
+- `games-misc/fortune-mod-gentoo-forums` - Fortune database of quotes from forums.gentoo.org.
