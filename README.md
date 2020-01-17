@@ -16,10 +16,11 @@ After that, all you need to do is sync. :)
 
 # Software
 Currently, here is what is included:
-- `x11-terms/valleyTERM` - A VTE-based Gtk terminal, created to be minimal yet fully-featured.
+- [`x11-terms/valleyTERM`](https://github.com/Phate6660/term) - A VTE-based Gtk terminal, created to be minimal yet fully-featured.
 
 Here is what is planned to be included:
-- `app-misc/rsfetch` - A neofetch-esque info fetch tool written in Rust.
-- `dev-python/PyRoman` - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
+- [`app-misc/rsfetch`](https://github.com/rsfetch/rsfetch) - A neofetch-esque info fetch tool written in Rust.
+- [`dev-python/PyRoman`](https://github.com/ncdulo/pyroman) - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
 - `games-misc/fortune-mod-gentoo-dev` - Fortune database of #gentoo-dev quotes.
 - `games-misc/fortune-mod-gentoo-forums` - Fortune database of quotes from forums.gentoo.org.
+- [`games-misc/fortune-mod-mythical-linux`](https://github.com/ncdulo/fortune-mod-mythical-linux) - Fortune database of quotes from the Mythical Linux Discord server. Repo description: A collection of various Phate-isms and Tredixions.
