@@ -24,3 +24,5 @@ Here is what is planned to be included:
 - [`dev-python/PyRoman`](https://github.com/ncdulo/pyroman) - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
 - `games-misc/fortune-mod-gentoo-dev` - Fortune database of #gentoo-dev quotes.
 - `games-misc/fortune-mod-gentoo-forums` - Fortune database of quotes from forums.gentoo.org.
+- [`media-sound/cli-visualizer`](https://github.com/dpayne/cli-visualizer) - The best audio visualizer. Fight me.
+- [`media-sound/cava`](https://github.com/karlstav/cava) - The second best audio visualizer.
