@@ -3,7 +3,7 @@
 ##### So use it at your own risk.<br>
 ----
 This is a custom overlay for Gentoo made through a group effort between ncdulo and I.<br>
-This overlay is for software created by me, ncdulo, other programmers we may know, and any software we want that is missing from portage.<br>
+This overlay is for software created by Phate6660, ncdulo, other programmers we may know, and any software we want that is missing from portage.<br>
 
 # Installation
 You see that `phate.conf` in the repo right? Ok, good. Now here's what you need to do.<br> 
