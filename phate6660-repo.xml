@@ -3,7 +3,7 @@
 	<repo quality="experimental" status="unofficial">
 		<name>phate6660-overlay</name>
 		<description lang="en">An overlay for software made by me, others, or just missing from the default repos.</description>
-        <homepage>https://github.com/Phate6660/overlay</homepage>
+        <homepage>https://github.com/p6nc/overlay</homepage>
 		<owner type="person">
             <name>Phate</name>
 			<email>ValleyKnight@protonmail.com</email>
