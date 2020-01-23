@@ -6,11 +6,11 @@ This is a custom overlay for Gentoo made through a group effort between ncdulo a
 This overlay is for software created by Phate6660, ncdulo, other programmers we may know, and any software we want that is missing from portage.<br>
 
 # Installation
-You see that `phate.conf` in the repo right? Ok, good. Now here's what you need to do.<br> 
+You see that `p6nc.conf` in the repo right? Ok, good. Now here's what you need to do.<br> 
 Check out `/etc/portage/repos.conf`.<br>
 Now you have 2 options.<br>
-- If it is a file, append the contents of `phate.conf` to it.
-- If it is a directory, copy `phate.conf` to it.<br>
+- If it is a file, append the contents of `p6nc.conf` to it.
+- If it is a directory, copy `p6nc.conf` to it.<br>
 <br>
 After that, all you need to do is sync. :)
 
