@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<upstream>
+		<doc>https://github.com/ncdulo/fortune-mod-mythical-linux/blob/master/README.md</doc>
+	</upstream>
+	<longdescription>A collection of various Phate-isms and Tredixions.</longdescription>
+	<use>
+		<flag name="offensive">Enable potentially offensive items in packages</flag>
+	</use>
+</pkgmetadata>
