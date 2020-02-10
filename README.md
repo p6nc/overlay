@@ -26,3 +26,4 @@ Here is what is planned to be included:
 - `games-misc/fortune-mod-gentoo-forums` - Fortune database of quotes from forums.gentoo.org.
 - [`media-sound/cli-visualizer`](https://github.com/dpayne/cli-visualizer) - The best audio visualizer. Fight me.
 - [`media-sound/cava`](https://github.com/karlstav/cava) - The second best audio visualizer.
+- `games-engines/openmw-9999` - Stable already included in main Gentoo overlay, but not nightly/git.
