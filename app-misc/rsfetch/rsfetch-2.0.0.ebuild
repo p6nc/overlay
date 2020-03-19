@@ -207,7 +207,7 @@ KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 DEPEND="|| ( dev-lang/rust dev-lang/rust-bin )
-		dev-libs/openssl"
+		|| ( dev-libs/openssl dev-libs/libressl )"
 RDEPEND="${DEPEND}"
 
 src_compile() {
