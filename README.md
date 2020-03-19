@@ -18,7 +18,7 @@ After that, all you need to do is sync. :)
 Currently, here is what is included:
 - [`x11-terms/valleyTERM`](https://github.com/Phate6660/term) - A VTE-based Gtk terminal, created to be minimal yet fully-featured.
 - [`games-misc/fortune-mod-mythical-linux`](https://github.com/ncdulo/fortune-mod-mythical-linux) - Fortune database of quotes from the Mythical Linux Discord server.
-- [`app-misc/rsfetch`](https://github.com/rsfetch/rsfetch) - A neofetch-esque info fetch tool written in Rust.
+- [`app-misc/rsfetch`](https://github.com/rsfetch/rsfetch) - A neofetch-esque info fetch tool written in Rust. Note: Requires `rust` or `rust-bin`. `rust` takes precendence, so if you want `rust-bin` instead make sure to specify installing that as well. Like this: `sudo emerge -atv rust-bin rsfetch`.
 
 Here is what is planned to be included:
 - [`dev-python/PyRoman`](https://github.com/ncdulo/pyroman) - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
