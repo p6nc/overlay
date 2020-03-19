@@ -19,7 +19,6 @@ base64-0.11.0
 bitflags-1.2.1
 blake2b_simd-0.5.10
 bstr-0.2.12
-bytecount-0.5.1
 byteorder-1.3.4
 bytes-0.4.12
 cc-1.0.50
@@ -104,7 +103,6 @@ prettytable-rs-0.8.0
 proc-macro2-0.4.30
 proc-macro2-1.0.9
 publicsuffix-1.5.4
-pwd-1.3.0
 quick-error-1.2.3
 quote-0.6.13
 quote-1.0.3
@@ -130,7 +128,7 @@ regex-automata-0.1.9
 regex-syntax-0.6.17
 remove_dir_all-0.5.2
 reqwest-0.9.24
-rsfetch-1.9.0
+rsfetch-2.0.0
 rust-argon2-0.7.0
 rustc-demangle-0.1.16
 rustc_version-0.2.3
@@ -179,7 +177,6 @@ unicode-normalization-0.1.12
 unicode-width-0.1.7
 unicode-xid-0.1.0
 unicode-xid-0.2.0
-uptime_lib-0.1.0
 url-1.7.2
 url-2.1.1
 uuid-0.7.4
@@ -218,4 +215,5 @@ src_compile() {
 
 src_install() {
 	cargo_src_install
+	doman rsfetch.1
 }
