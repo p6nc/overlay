@@ -27,3 +27,4 @@ Here is what is planned to be included:
 - [`media-sound/cli-visualizer`](https://github.com/dpayne/cli-visualizer) - The best audio visualizer. Fight me.
 - [`media-sound/cava`](https://github.com/karlstav/cava) - The second best audio visualizer.
 - `games-engines/openmw-9999` - Stable already included in main Gentoo overlay, but not nightly/git.
+- [`app-portage/pkg`](https://github.com/Phate6660/pkg) - An emerge wrapper with extra features written in Rust.
