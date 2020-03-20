@@ -25,6 +25,10 @@ Notes for rsfetch:
 1. Requires `rust` or `rust-bin`. `rust` takes precedence, so if you want `rust-bin` instead make sure to specify installing that as well. Like this: `sudo emerge -atv rust-bin rsfetch`.
 2. This is the same for SSL. OpenSSL take precedence, but you can specify LibreSSL if you prefer that.
 
+Notes for pkg:
+1. Same as rsfetch (number one, not two).
+2. Even though the package is called `pkg-gentoo`, the binary for it is `pkg`.
+
 Here is what is planned to be included:
 - [`dev-python/PyRoman`](https://github.com/ncdulo/pyroman) - A Roman numeral conversion library written for Python 3.6. Includes a Gtk3 wrapper.
 - `games-misc/fortune-mod-gentoo-dev` - Fortune database of #gentoo-dev quotes.
