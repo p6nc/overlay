@@ -19,6 +19,7 @@ Currently, here is what is included:
 - [`x11-terms/valleyTERM`](https://github.com/Phate6660/term) - A VTE-based Gtk terminal, created to be minimal yet fully-featured.
 - [`games-misc/fortune-mod-mythical-linux`](https://github.com/ncdulo/fortune-mod-mythical-linux) - Fortune database of quotes from the Mythical Linux Discord server.
 - [`app-misc/rsfetch`](https://github.com/rsfetch/rsfetch) - A neofetch-esque info fetch tool written in Rust. 
+- [`app-portage/pkg`](https://github.com/Phate6660/pkg) - An emerge wrapper with extra features written in Rust.
 
 Notes for rsfetch: 
 1. Requires `rust` or `rust-bin`. `rust` takes precedence, so if you want `rust-bin` instead make sure to specify installing that as well. Like this: `sudo emerge -atv rust-bin rsfetch`.
@@ -31,4 +32,3 @@ Here is what is planned to be included:
 - [`media-sound/cli-visualizer`](https://github.com/dpayne/cli-visualizer) - The best audio visualizer. Fight me.
 - [`media-sound/cava`](https://github.com/karlstav/cava) - The second best audio visualizer.
 - `games-engines/openmw-9999` - Stable already included in main Gentoo overlay, but not nightly/git.
-- [`app-portage/pkg`](https://github.com/Phate6660/pkg) - An emerge wrapper with extra features written in Rust.
