@@ -22,6 +22,7 @@ Currently, here is what is included:
 - [`app-portage/pkg-gentoo`](https://github.com/Phate6660/pkg) - An emerge wrapper with extra features written in Rust.
 - [`media-sound/cli-visualizer`](https://github.com/dpayne/cli-visualizer) - The best audio visualizer. Fight me.
 - [`net-misc/straw-viewer`](https://github.com/trizen/straw-viewer) - Fork of `youtube-viewer` that uses the invidio api.
+- [`dev-vcs/gh-bin`](https://github.com/cli/cli) - Official Github cli, `-bin` version.
 
 Notes for rsfetch: 
 1. Requires `rust` or `rust-bin`. `rust` takes precedence, so if you want `rust-bin` instead make sure to specify installing that as well. Like this: `sudo emerge -atv rust-bin rsfetch`.
