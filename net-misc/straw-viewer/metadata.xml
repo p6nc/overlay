@@ -1,0 +1,6 @@
+<use>
+  <flag name="better-stdin">Better STDIN support (+ history)</flag>
+  <flag name="cache">Local cache support</flag>
+  <flag name="faster-json">Faster JSON deserialization</flag>
+  <flag name="fixed-width">Fixed-width formatting (--fixed-width, -W)</flag>
+</use>
