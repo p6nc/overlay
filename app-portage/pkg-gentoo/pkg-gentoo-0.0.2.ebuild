@@ -11,7 +11,7 @@ clap-2.33.0
 glob-0.3.0
 hermit-abi-0.1.8
 libc-0.2.67
-pkg-gentoo-0.0.1
+pkg-gentoo-0.0.2
 strsim-0.8.0
 textwrap-0.11.0
 unicode-width-0.1.7
