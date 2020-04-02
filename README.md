@@ -38,3 +38,4 @@ Here is what is planned to be included:
 - `games-misc/fortune-mod-gentoo-forums` - Fortune database of quotes from forums.gentoo.org.
 - [`media-sound/cava`](https://github.com/karlstav/cava) - The second best audio visualizer.
 - `games-engines/openmw-9999` - Stable already included in main Gentoo overlay, but not nightly/git.
+- [`www-client/palemoon`](https://www.palemoon.org/) - Australis Firefox (Firefox version ~29) based browser. Made for those unhappy with modern day Firefox, to say the least.
