@@ -5,14 +5,14 @@ EAPI=7
 
 DESCRIPTION="GitHub on the command line."
 HOMEPAGE="https://cli.github.com/"
-SRC_URI="https://github.com/cli/cli/releases/download/v0.6.4/gh_0.6.4_linux_amd64.tar.gz"
+SRC_URI="https://github.com/cli/cli/releases/download/v0.7.0/gh_0.7.0_linux_amd64.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64"
 IUSE=""
 
-S="${PORTAGE_BUILDDIR}/work/gh_0.6.4_linux_amd64/bin"
+S="${PORTAGE_BUILDDIR}/work/gh_0.7.0_linux_amd64/bin"
 
 QA_PREBUILT="/opt/gh/gh"
 
