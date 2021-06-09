@@ -21,6 +21,7 @@ Currently, here is what is included:
 - [`net-misc/straw-viewer`](https://github.com/trizen/straw-viewer) - Fork of `youtube-viewer` that uses the invidio api.
 - [`dev-vcs/gh-bin`](https://github.com/cli/cli) - Official Github cli, `-bin` version.
 - `games-fps/gzdoom` - gzdoom, but it always builds in debug mode. Why is this like the only game in the repos without the debug flag?!
+- [`dev-lang/fennel`](https://sr.ht/~technomancy/fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to handwritten Lua.
 
 Notes for rsfetch: 
 1. Requires `rust` or `rust-bin`. `rust` takes precedence, so if you want `rust-bin` instead make sure to specify installing that as well. Like this: `sudo emerge -atv rust-bin rsfetch`.
